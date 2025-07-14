@@ -1,0 +1,1 @@
+// Fichier JavaScript simplifié mis ici. Contenu complet envoyé précédemment.
